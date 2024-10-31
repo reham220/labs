@@ -1,0 +1,7 @@
+
+AppData/
+Desktop/
+Downloads/
+
+
+NTUSER.DAT*
