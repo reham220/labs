@@ -1,7 +1,23 @@
 
-AppData/
-Desktop/
-Downloads/
-
 
 NTUSER.DAT*
+
+
+AppData/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+OneDrive/
+VirtualBox VMs/
+bin/
+Temp/
+ntuser.*
+
+
+.vscode/
+.VirtualBox/
+.eclipse/
+.idlerc/
